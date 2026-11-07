@@ -1,7 +1,0 @@
-{
-  "parent": "tacz:item/ammo_box/diamond_ammo_box_close",
-  "textures": {
-    "2": "tacz_ammo_tiers:item/upgrade_ring_netherite",
-    "particle": "tacz:item/ammo_box"
-  }
-}
