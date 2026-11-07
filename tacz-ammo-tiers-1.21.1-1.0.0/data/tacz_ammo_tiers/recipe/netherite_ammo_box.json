@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PIP",
+    "P P",
+    "PPP"
+  ],
+  "key": {
+    "I": { "item": "minecraft:netherite_ingot" },
+    "P": { "tag": "minecraft:planks" }
+  },
+  "result": { "id": "tacz_ammo_tiers:netherite_ammo_box" }
+}

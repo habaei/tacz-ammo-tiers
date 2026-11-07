@@ -1,0 +1,17 @@
+{
+  "parent": "tacz:item/ammo_box/diamond_ammo_box_close",
+  "textures": {
+    "2": "tacz_ammo_tiers:item/upgrade_ring_copper",
+    "particle": "tacz:item/ammo_box"
+  },
+  "overrides": [
+    {
+      "predicate": { "tacz:ammo_statue": 2 },
+      "model": "tacz_ammo_tiers:item/copper_ammo_box_open"
+    },
+    {
+      "predicate": { "tacz:ammo_statue": 3 },
+      "model": "tacz_ammo_tiers:item/copper_ammo_box_close"
+    }
+  ]
+}

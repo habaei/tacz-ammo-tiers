@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PIP",
+    "P P",
+    "PPP"
+  ],
+  "key": {
+    "I": { "item": "minecraft:emerald" },
+    "P": { "tag": "minecraft:planks" }
+  },
+  "result": { "id": "tacz_ammo_tiers:emerald_ammo_box" }
+}
